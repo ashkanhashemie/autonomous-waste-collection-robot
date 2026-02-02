@@ -39,3 +39,27 @@
 
 # debug information files
 *.dwo
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# CAD backups
+*.swp
+*.sld~ 
+*.bak
