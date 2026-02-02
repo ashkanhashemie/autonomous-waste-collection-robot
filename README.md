@@ -1,2 +1,2 @@
-# autonomous-waste-collection-robot
+# Autonomous-waste-collection-robot
 An autonomous mobile robot designed for indoor &amp; outdoor waste collection.
