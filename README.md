@@ -4,7 +4,7 @@ An autonomous mobile robot designed for indoor and outdoor waste collection, fea
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on the design and development of an autonomous mobile robot capable of collecting small waste materials from indoor environments as well as outdoor areas such as beaches, jungles and forests.
 The robot is equipped with a rotating brush mechanism that transfers surface waste into an internal storage container. Using multiple ultrasonic distance sensors, the system navigates autonomously and avoids obstacles without human intervention (almost :)).
@@ -12,7 +12,7 @@ A key objective of this project is to contribute to environmental protection by 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Design an autonomous robot for waste collection in various environments.  
 - Enable obstacle avoidance using distance sensors.  
@@ -22,7 +22,7 @@ A key objective of this project is to contribute to environmental protection by 
 
 ---
 
-## ⚙️ Mechanical Design
+## Mechanical Design
 
 The mechanical structure of the robot was designed using CAD software and optimized for outdoor operation.
 
@@ -42,14 +42,14 @@ Detailed mechanical models and files are available in the "CAD" directory.
 
 ---
 
-## 🔌 Hardware System
+## Hardware System
 
 The electronic system is based on an embedded control architecture and includes various electronic components.
 The hardware subsystem is documented in detail in the "Hardware" directory.
 
 ---
 
-## 💻 Firmware and Control Logic
+## Firmware and Control Logic
 
 The robot firmware was developed using the Arduino framework in C/C++.
 Main software features include:
@@ -64,7 +64,7 @@ All source code and documentation are available in the "Firmware" directory.
 
 ---
 
-## 🗺️ Navigation Strategy
+## Navigation Strategy
 
 The navigation system relies on four ultrasonic sensors placed strategically around the robot.
 Based on distance measurements, the robot determines safe movement paths and dynamically changes direction to avoid obstacles.
@@ -72,7 +72,7 @@ This approach enables fully autonomous operation in both indoor and outdoor envi
 
 ---
 
-## 🚀 Setup and Deployment
+## Setup and Deployment
 
 1. Assemble the mechanical frame using the CAD designs.
 2. Install motors, sensors, and the brush mechanism.
@@ -83,13 +83,13 @@ This approach enables fully autonomous operation in both indoor and outdoor envi
 
 ---
 
-## 📷 Demonstration and Media
+## Demonstration and Media
 
 Photos, videos, and additional documentation of the working prototype are available in the "Media" directory.
 
 ---
 
-## ⚠️ Current Limitations
+## Current Limitations
 
 Although the prototype demonstrates reliable autonomous operation, several limitations remain:
 
@@ -103,7 +103,7 @@ These limitations represent opportunities for future development.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Planned and potential enhancements include:
 
@@ -116,13 +116,13 @@ Planned and potential enhancements include:
 
 ---
 
-## 📈 Project Status
+## Project Status
 
 This project is currently implemented as a functional prototype and remains open for further development and optimization.
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 Through this project, practical experience was gained in:
 
