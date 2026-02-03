@@ -7,9 +7,7 @@ An autonomous mobile robot designed for indoor and outdoor waste collection, fea
 ## 📌 Project Overview
 
 This project focuses on the design and development of an autonomous mobile robot capable of collecting small waste materials from indoor environments as well as outdoor areas such as beaches, jungles and forests.
-
 The robot is equipped with a rotating brush mechanism that transfers surface waste into an internal storage container. Using multiple ultrasonic distance sensors, the system navigates autonomously and avoids obstacles without human intervention (almost :)).
-
 A key objective of this project is to contribute to environmental protection by enabling efficient and selective waste collection while minimizing disturbance to natural surfaces.
 
 ---
