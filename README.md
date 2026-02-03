@@ -132,4 +132,3 @@ Through this project, practical experience was gained in:
 - Sensor integration and calibration  
 - System-level robotics engineering  
 
----
