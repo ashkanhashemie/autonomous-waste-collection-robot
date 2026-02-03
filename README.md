@@ -133,7 +133,3 @@ Through this project, practical experience was gained in:
 - System-level robotics engineering  
 
 ---
-
-## 📄 License
-
-This project is released under the MIT License.
